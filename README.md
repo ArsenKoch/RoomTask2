@@ -1,3 +1,1 @@
-Source code of projects from YouTube video tutorials.
-
-Video materials are listed [here](https://www.youtube.com/channel/UCofyDdGnCssPNwABNkxLFKg)
+This project was divided into several parts, was implemented with the help of a video course.
